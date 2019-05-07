@@ -2,6 +2,7 @@ module.exports = {
   'extends': require.resolve('eslint-config-5minds-typescript/fast'),
   'rules': {
     'import/no-extraneous-dependencies': ['off'],
+    'newline-per-chained-call': ["error", { "ignoreChainWithDepth": 2 }],
     'no-new-func': ['off'],
     'operator-linebreak': ['off'],
     '@typescript-eslint/no-explicit-any': ['warn'],
