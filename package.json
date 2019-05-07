@@ -1,0 +1,32 @@
+{
+  "name": "@essential-projects/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint config for the process-engine",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProcessEngineJS/tslint-config.git"
+  },
+  "author": "5Minds IT-Solutions GmbH & Co. KG",
+  "contributors": [
+    "Christian Werner <christian.werner@5minds.de>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProcessEngineJS/tslint-config/issues"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.7.0",
+    "@typescript-eslint/parser": "^1.7.0",
+    "eslint-config-5minds-typescript": "^1.0.0",
+    "eslint-plugin-6river": "^1.0.6",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-no-null": "^1.0.2",
+    "tsconfig": "^7.0.0",
+    "typescript": "^3.4.5"
+  },
+  "peerDependencies": {
+    "@types/node": "^10.12.2",
+    "typescript": "^3.4.5"
+  }
+}
