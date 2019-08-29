@@ -1,6 +1,6 @@
 {
   "name": "@essential-projects/eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "eslint config for the process-engine",
   "main": "index.js",
   "repository": {
