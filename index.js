@@ -14,6 +14,7 @@ module.exports = {
     'strict': 'off',
     '@typescript-eslint/consistent-type-assertions': ['off'],
     '@typescript-eslint/no-explicit-any': ['warn'],
+    '@typescript-eslint/no-magic-numbers': ['off'],
     '@typescript-eslint/no-namespace': ['off'],
     '@typescript-eslint/no-use-before-define': ['off'],
     '@typescript-eslint/no-unused-vars': ['warn'],
