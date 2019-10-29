@@ -12,6 +12,7 @@ module.exports = {
     'operator-linebreak': ['off'],
     'require-await': ['off'],
     'strict': 'off',
+    '@typescript-eslint/consistent-type-assertions': ['off'],
     '@typescript-eslint/no-explicit-any': ['warn'],
     '@typescript-eslint/no-namespace': ['off'],
     '@typescript-eslint/no-use-before-define': ['off'],
