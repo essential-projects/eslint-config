@@ -16,17 +16,17 @@
     "url": "https://github.com/ProcessEngineJS/tslint-config/issues"
   },
   "dependencies": {
-    "@types/node": "^10.12.2",
-    "@typescript-eslint/eslint-plugin": "^1.7.0",
-    "@typescript-eslint/parser": "^1.7.0",
-    "eslint-config-5minds-typescript": "^1.0.0",
+    "@types/node": "^12.11.7",
+    "@typescript-eslint/eslint-plugin": "^2.6.0",
+    "@typescript-eslint/parser": "^2.6.0",
+    "eslint-config-5minds-typescript": "^2.0.0",
     "eslint-plugin-6river": "^1.0.6",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-no-null": "^1.0.2",
     "tsconfig": "^7.0.0",
-    "typescript": "^3.4.5"
+    "typescript": "^3.6.4"
   },
   "peerDependencies": {
-    "typescript": "^3.4.5"
+    "typescript": "^3.6.4"
   }
 }
