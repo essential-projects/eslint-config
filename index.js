@@ -13,6 +13,7 @@ module.exports = {
     'require-await': ['off'],
     'strict': 'off',
     '@typescript-eslint/consistent-type-assertions': ['off'],
+    '@typescript-eslint/consistent-type-definitions': ['off'],
     '@typescript-eslint/no-explicit-any': ['warn'],
     '@typescript-eslint/no-magic-numbers': ['off'],
     '@typescript-eslint/no-namespace': ['off'],
