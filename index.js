@@ -8,9 +8,7 @@ module.exports  = {
     ecmaVersion: 2019,
     sourceType: 'script',
   },
-  plugins: [
-    ['no-null', '@typescript-eslint', '6river'],
-  ],
+  plugins: ['no-null', '@typescript-eslint', '6river'],
   rules: {
     // NodeJS Rules
     'arrow-parens': ['error', 'always'],
