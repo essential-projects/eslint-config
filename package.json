@@ -24,13 +24,11 @@
     "@typescript-eslint/eslint-plugin": "^2.10.0",
     "@typescript-eslint/parser": "^2.10.0",
     "confusing-browser-globals": "^1.0.9",
-    "eslint": "^6.6.0",
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-plugin-6river": "^1.0.6",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-no-null": "^1.0.2",
-    "tsconfig": "^7.0.0",
-    "typescript": "^3.7.2"
+    "tsconfig": "^7.0.0"
   },
   "peerDependencies": {
     "eslint": "^6.6.0",
