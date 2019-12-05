@@ -131,9 +131,9 @@ module.exports  = {
         'private-field',
         'static-field',
         'instance-field',
-        field,
+        'field',
 
-        constructor,
+        'constructor',
 
         'static-method',
         'instance-method'
