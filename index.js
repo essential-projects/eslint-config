@@ -14,7 +14,7 @@ module.exports  = {
     'arrow-parens': ['error', 'always'],
     'arrow-body-style': ['off'],
     'class-methods-use-this': ['off'],
-    'curly': ['error', 'never'],
+    'curly': ['error', 'all'],
     'complexity': ['error', 30],
     'eqeqeq': ['off'],
     'function-paren-newline': ['error', 'multiline'],
