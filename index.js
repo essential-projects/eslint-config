@@ -23,6 +23,7 @@ module.exports  = {
     'import/no-extraneous-dependencies': ['off'],
     'import/prefer-default-export': 'off',
     'lines-between-class-members': ['error', 'always', {exceptAfterSingleLine: true}],
+    'max-classes-per-file': ['off'],
     'max-len': [2, 150, 2, {
       ignoreUrls: true,
       ignoreComments: false,
