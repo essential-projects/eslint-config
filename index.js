@@ -40,6 +40,7 @@ module.exports  = {
     }],
     'newline-per-chained-call': ['error', { 'ignoreChainWithDepth': 2 }],
     'nonblock-statement-body-position': ['off'],
+    'no-async-promise-executor': ['off'],
     'no-await-in-loop': ['off'],
     'no-bitwise': ['error', {allow: ['~', '^', '|', '&', '|=', '&=', '^=']}],
     'no-case-declarations': ['off'],
