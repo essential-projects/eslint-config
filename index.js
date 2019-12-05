@@ -6,7 +6,7 @@ module.exports  = {
   },
   parserOptions: {
     ecmaVersion: 2019,
-    sourceType: 'script',
+    sourceType: 'module',
   },
   plugins: ['no-null', '@typescript-eslint', '6river'],
   rules: {
