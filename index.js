@@ -77,6 +77,7 @@ module.exports  = {
     'operator-linebreak': ['off'],
     'padded-blocks': ['error', {classes: 'always'}],
     'prefer-destructuring': ['off'],
+    'prefer-object-spread':  ['off'],
     'radix': ['error', 'as-needed'],
     'require-await': ['off'],
     'sort-imports': ['error', {'ignoreDeclarationSort': true}],
