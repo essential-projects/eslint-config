@@ -20,6 +20,12 @@ module.exports  = {
     'eqeqeq': ['off'],
     'function-paren-newline': ['error', 'multiline'],
     'implicit-arrow-linebreak': ['off'],
+    'import/extensions': [
+      'never',
+      {
+        'json': 'ignorePackages'
+      }
+    ],
     'import/no-extraneous-dependencies': ['off'],
     'import/prefer-default-export': 'off',
     'lines-between-class-members': ['error', 'always', {exceptAfterSingleLine: true}],
