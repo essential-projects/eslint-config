@@ -1,6 +1,6 @@
 {
   "name": "@essential-projects/eslint-config",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "An ESLint ruleset tailored to the ProcessEngine and AtlasEngine. Supports NodeJs and Typescript",
   "main": "index.js",
   "repository": {

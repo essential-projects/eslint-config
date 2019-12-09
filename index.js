@@ -21,10 +21,9 @@ module.exports  = {
     'function-paren-newline': ['error', 'multiline'],
     'implicit-arrow-linebreak': ['off'],
     'import/extensions': [
+      'error',
       'never',
-      {
-        'json': 'ignorePackages'
-      }
+      { 'json': 'ignorePackages' },
     ],
     'import/no-extraneous-dependencies': ['off'],
     'import/prefer-default-export': 'off',
